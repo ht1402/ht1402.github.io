@@ -9,5 +9,5 @@ body {
 				height: 100px;
 				background-color: blue;
 				display: none;
-				position: relative; 
+				position: static; 
 		}
